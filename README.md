@@ -9,7 +9,7 @@ Andronic123#8281,
 Ἱάσων ὁ ,Ϛτλα'#3481,
 ©™The Suspect®(°~°)#6179,
 
-# Screenshots of the bot's commands
+# Screenshots of the bot's interface
 
 https://cdn.discordapp.com/attachments/592346149772460054/593992681630334977/unknown.png
 https://cdn.discordapp.com/attachments/592346149772460054/593994413886275587/unknown.png
