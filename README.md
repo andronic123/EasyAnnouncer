@@ -10,9 +10,9 @@ It also welcomes users in a similar manner.We were making a bot which used voice
 ### ©™The Suspect®(°~°)#6179
 
 # Node Packages you need to install:
-## npm install fs
-## npm install discord.js
-## npm install
+###### npm install fs
+###### npm install discord.js
+
 
 
 # Screenshots of the bot's interface
