@@ -10,6 +10,7 @@ Andronic123#8281,
 ©™The Suspect®(°~°)#6179,
 
 # Screenshots of the bot's interface
-
+#####Welcoming Message
 ![Welcoming Message](https://cdn.discordapp.com/attachments/592346149772460054/593992681630334977/unknown.png)
+#####Announce command interface
 ![Announce Command](https://cdn.discordapp.com/attachments/592346149772460054/593994413886275587/unknown.png)
