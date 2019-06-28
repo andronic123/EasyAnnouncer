@@ -11,5 +11,5 @@ Andronic123#8281,
 
 # Screenshots of the bot's interface
 
-https://cdn.discordapp.com/attachments/592346149772460054/593992681630334977/unknown.png
-https://cdn.discordapp.com/attachments/592346149772460054/593994413886275587/unknown.png
+![Welcoming Message](https://cdn.discordapp.com/attachments/592346149772460054/593992681630334977/unknown.png)
+![Announce Command](https://cdn.discordapp.com/attachments/592346149772460054/593994413886275587/unknown.png)
