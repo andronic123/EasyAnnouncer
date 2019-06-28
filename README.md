@@ -9,6 +9,12 @@ It also welcomes users in a similar manner.We were making a bot which used voice
 ### Ἱάσων ὁ ,Ϛτλα'#3481
 ### ©™The Suspect®(°~°)#6179
 
+# Node Packages you need to install:
+## npm install fs
+## npm install discord.js
+## npm install
+
+
 # Screenshots of the bot's interface
 #### Welcoming Message
 ![Welcoming Message](https://cdn.discordapp.com/attachments/592346149772460054/593992681630334977/unknown.png)
